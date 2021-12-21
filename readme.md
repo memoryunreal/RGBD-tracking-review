@@ -4,7 +4,7 @@
 
 ## RGBD Tracking Express
 ### 2021
- * **DeT**:
+ * **DeT**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack : Unveiling the Power of RGBD Tracking. In _ICCV_, 2021.
  * **TSDM**:
  * **3s-RGBD**:
 ### 2020
