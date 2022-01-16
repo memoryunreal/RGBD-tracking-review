@@ -65,9 +65,9 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
   *  **DepthTrack**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack : Unveiling the Power of RGBD Tracking. In _ICCV_, 2021. [[Paper]](https://arxiv.org/abs/2108.13962) [[Dataset]](http://doi.org/10.5281/zenodo.4716441)
 
   ### Challenges
-  *  **VOT-2019**: [[Website]](https://www.votchallenge.net/vot2019/)
-  *  **VOT-2020**: [[Website]](https://www.votchallenge.net/vot2020/)
-  *  **VOT-2021**: [[Website]](https://www.votchallenge.net/vot2021/)
+  *  **VOT-2019**: [[Website]](https://www.votchallenge.net/vot2019/) [[Paper]](https://prints.vicos.si/publications/375)
+  *  **VOT-2020**: [[Website]](https://www.votchallenge.net/vot2020/) [[Paper]](https://prints.vicos.si/publications/384)
+  *  **VOT-2021**: [[Website]](https://www.votchallenge.net/vot2021/) [[Paper]](https://openaccess.thecvf.com/content/ICCV2021W/VOT/papers/Kristan_The_Ninth_Visual_Object_Tracking_VOT2021_Challenge_Results_ICCVW_2021_paper.pdf)
 
 <!--
 A comprehensive survey on multimodal tracking [[Paper]](https://arxiv.org/pdf/2012.04176.pdf), including RGB-T and RGB-D tracking methods. This list will be long-term updating. If your related paper is missing in this review, feel free to contact [pyzhang@mail.dlut.edu.cn](mailto:pyzhang@mail.dlut.edu.cn).
