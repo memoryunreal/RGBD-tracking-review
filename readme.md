@@ -33,7 +33,7 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
 * **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Code]](https://github.com/shine636363/RGBDtracker)
 
  ### 2017
-  * **ODIOT**: Wei-Long Zheng, Shan-Chun Shen, Bao-Liang Lu. Online Depth Image-Based Object Tracking with Sparse Representation and Object Detection. In_Neural Process Letters_, 2017.
+  * **ODIOT**: Wei-Long Zheng, Shan-Chun Shen, Bao-Liang Lu. Online Depth Image-Based Object Tracking with Sparse Representation and Object Detection. In _Neural Process Letters_, 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11063-016-9509-y.pdf)
   * **ROTSL**: Zi-ang Ma, Zhi-yu Xiang. Robust Object Tracking with RGBD-based Sparse Learning. In _ITEE_ (18), 2017. [[Paper]](https://link.springer.com/article/10.1631/FITEE.1601338)
 
  ### 2016
