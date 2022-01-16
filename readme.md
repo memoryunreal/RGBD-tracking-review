@@ -20,7 +20,7 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
 * **Depth-CCF**: Guanqun Li, Lei Huang, Peichang Zhang, Qiang Li, YongKai Huo. Depth Information Aided Constrained correlation Filter for Visual Tracking. In _GSKI_ 2018.
 [[Paper]](https://iopscience.iop.org/article/10.1088/1755-1315/234/1/012005)
  * **ECO_TA**: Yangliu Kuai, Gongjian Wen, Dongdong Li, Jingjing Xiao. Target-Aware Correlation Filter Tracking in RGBD Videos. In _Sensors_ 19(20), 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8752050)
- * **H-FCN**:
+ * **H-FCN**: Ming-xin Jiang, Chao Deng, Jing-song Shan, Yuan-yuan Wang, Yin-jie Jia, Xing Sun. Hierarchical multi-modal fusion FCN with attention model for RGB-D tracking. In _Information Fusion_ [[Paper]](https://www.sciencedirect.com/sdfe/reader/pii/S1566253517306784/pdf)
  * **OTR**: Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters. In _CVPR_ 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf) [[Code]](https://github.com/ugurkart/OTR)
  * **RGBD-OD**: Yujun Xie, Yao Lu, Shuang Gu. RGB-D Object Tracking with Occlusion Detection. In _CIS_ 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9023755)
 
