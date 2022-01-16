@@ -30,9 +30,10 @@ This review will be continuously updating. Please feel free to contact [jinyu.ya
 * **OACPF**: Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. Occlusion-Aware Correlation Particle FilterTarget Tracking Based on RGBD Data. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8463446)
 * **RT-KCF**:
 * **SEOH**: Jiaxu Leng, Ying Liu. Real-Time RGB-D Visual Tracking With ScaleEstimation and Occlusion Handling. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8353501)
-* **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575)
+* **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Code]](https://github.com/shine636363/RGBDtracker)
 
  ### 2017
+  * **ODIOT**:
   * **ROTSL**: Zi-ang Ma, Zhi-yu Xiang. Robust Object Tracking with RGBD-based Sparse Learning. In _ITEE_ (18), 2017. [[Paper]](https://link.springer.com/article/10.1631/FITEE.1601338)
 
  ### 2016
@@ -59,6 +60,9 @@ This review will be continuously updating. Please feel free to contact [jinyu.ya
   *  **DepthTrack**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack : Unveiling the Power of RGBD Tracking. In _ICCV_, 2021. [[Paper]](https://arxiv.org/abs/2108.13962) [[Dataset]](http://doi.org/10.5281/zenodo.4716441)
 
   ### Challenges
+  *  **VOT-2019**: [[Website]](https://www.votchallenge.net/vot2019/)
+  *  **VOT-2020**: [[Website]](https://www.votchallenge.net/vot2020/)
+  *  **VOT-2021**: [[Website]](https://www.votchallenge.net/vot2021/)
 
 <!--
 A comprehensive survey on multimodal tracking [[Paper]](https://arxiv.org/pdf/2012.04176.pdf), including RGB-T and RGB-D tracking methods. This list will be long-term updating. If your related paper is missing in this review, feel free to contact [pyzhang@mail.dlut.edu.cn](mailto:pyzhang@mail.dlut.edu.cn).
