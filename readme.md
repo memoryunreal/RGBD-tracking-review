@@ -1,7 +1,7 @@
 # RGBD Tracking Overview
 Related papers will be continuously updated. Please feel free to contact [jinyu.yang96@outlook.com](mailto:jinyu.yang96@outlook.com).
 ## Overview
-![alt text](https://github.com/memoryunreal/RGBD-tracking-review/choro.png)
+[](https://github.com/memoryunreal/RGBD-tracking-review/choro.png)
 ## RGBD Tracking Express
 ### 2021
  * **DeT**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack: Unveiling the Power of RGBD Tracking. In  _ICCV_, 2021. [[Paper]](https://arxiv.org/abs/2108.13962) [[Code]](https://github.com/xiaozai/DeT)
