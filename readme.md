@@ -4,14 +4,14 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
 
 ## RGBD Tracking Express
 ### 2021
- * **DeT**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack: Unveiling the Power of RGBD Tracking. In _ICCV_, 2021. [[Paper]](https://arxiv.org/abs/2108.13962) [[Code]](https://github.com/xiaozai/DeT)
- * **TSDM**: Pengyao Zhao, Quanli Liu, Wei Wang and Qiang Guo. TSDM: Tracking by SiamRPN++ with a Depth-refiner and a Mask-generator. In_ICPR_, 2021.
- * **3s-RGBD**: Feng Xiao, Qiuxia Wu, Han Huang. Single-scale siamese network based RGB-D object tracking with adaptive bounding boxes. In_Neurocomputing_, 2021.
+ * **DeT**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack: Unveiling the Power of RGBD Tracking. In  _ICCV_, 2021. [[Paper]](https://arxiv.org/abs/2108.13962) [[Code]](https://github.com/xiaozai/DeT)
+ * **TSDM**: Pengyao Zhao, Quanli Liu, Wei Wang and Qiang Guo. TSDM: Tracking by SiamRPN++ with a Depth-refiner and a Mask-generator. In _ICPR_, 2021.
+ * **3s-RGBD**: Feng Xiao, Qiuxia Wu, Han Huang. Single-scale siamese network based RGB-D object tracking with adaptive bounding boxes. In _Neurocomputing_, 2021.
 
 ### 2020
- * **DAL**: Yanlin Qian, Alan Lukezic, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Matas. DAL : A deep depth-aware long-term tracker. In_ICPR_, 2020. [[Code]](https://github.com/xiaozai/DAL)
- * **RF-CFF**: Yong Wang, Xian Wei, Hao Shen, Lu Ding, Jiuqing Wan. Robust fusion for RGB-D tracking using CNN features. In_Applied Soft Computing Journal_, 2020.
- * **SiamOC**: Wenli Zhang, Kun Yang, Yitao Xin, Rui Meng. An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network. In_ICSP_, 2020.
+ * **DAL**: Yanlin Qian, Alan Lukezic, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Matas. DAL : A deep depth-aware long-term tracker. In _ICPR_, 2020. [[Code]](https://github.com/xiaozai/DAL)
+ * **RF-CFF**: Yong Wang, Xian Wei, Hao Shen, Lu Ding, Jiuqing Wan. Robust fusion for RGB-D tracking using CNN features. In _Applied Soft Computing Journal_, 2020.
+ * **SiamOC**: Wenli Zhang, Kun Yang, Yitao Xin, Rui Meng. An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network. In _ICSP_, 2020.
  * **WCO**: Weichun Liu, Xiaoan Tang, Chengling Zhao. Robust RGBD Tracking via Weighted Convlution Operators. In _Sensors_ 20(8), 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950173/)
 
 ### 2019
@@ -28,7 +28,7 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
 * **CSR-rgbd**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas. How to Make an RGBD Tracker? In _ECCV Workshop_ 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_8) [[Code]](http://tracking.cs.princeton.edu/)
 * **DM-DCF**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. Depth Masked Discriminative Correlation Filter. In _ICPR_ 2018. [[Paper]](https://arxiv.org/pdf/1802.09227.pdf)
 * **OACPF**: Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. Occlusion-Aware Correlation Particle FilterTarget Tracking Based on RGBD Data. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8463446)
-* **RT-KCF**:
+* **RT-KCF**: Han Zhang, Meng Cai, Jianxun Li.  A Real-time RGB-D tracker based on KCF. In _CCDC_ 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8407972)
 * **SEOH**: Jiaxu Leng, Ying Liu. Real-Time RGB-D Visual Tracking With ScaleEstimation and Occlusion Handling. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8353501)
 * **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Code]](https://github.com/shine636363/RGBDtracker)
 
