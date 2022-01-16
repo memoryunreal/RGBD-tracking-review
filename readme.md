@@ -5,13 +5,13 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
 ## RGBD Tracking Express
 ### 2021
  * **DeT**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack: Unveiling the Power of RGBD Tracking. In  _ICCV_, 2021. [[Paper]](https://arxiv.org/abs/2108.13962) [[Code]](https://github.com/xiaozai/DeT)
- * **TSDM**: Pengyao Zhao, Quanli Liu, Wei Wang and Qiang Guo. TSDM: Tracking by SiamRPN++ with a Depth-refiner and a Mask-generator. In _ICPR_, 2021.
- * **3s-RGBD**: Feng Xiao, Qiuxia Wu, Han Huang. Single-scale siamese network based RGB-D object tracking with adaptive bounding boxes. In _Neurocomputing_, 2021.
+ * **TSDM**: Pengyao Zhao, Quanli Liu, Wei Wang and Qiang Guo. TSDM: Tracking by SiamRPN++ with a Depth-refiner and a Mask-generator. In _ICPR_, 2021. [[Paper]](https://arxiv.org/ftp/arxiv/papers/2005/2005.04063.pdf) [[Code]](https://github.com/lql-team/TSDM)
+ * **3s-RGBD**: Feng Xiao, Qiuxia Wu, Han Huang. Single-scale siamese network based RGB-D object tracking with adaptive bounding boxes. In _Neurocomputing_, 2021. [[Paper]](https://www.sciencedirect.com/sdfe/reader/pii/S0925231221005439/pdf)
 
 ### 2020
  * **DAL**: Yanlin Qian, Alan Lukezic, Matej Kristan, Joni-Kristian Kämäräinen, Jiri Matas. DAL : A deep depth-aware long-term tracker. In _ICPR_, 2020. [[Code]](https://github.com/xiaozai/DAL)
- * **RF-CFF**: Yong Wang, Xian Wei, Hao Shen, Lu Ding, Jiuqing Wan. Robust fusion for RGB-D tracking using CNN features. In _Applied Soft Computing Journal_, 2020.
- * **SiamOC**: Wenli Zhang, Kun Yang, Yitao Xin, Rui Meng. An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network. In _ICSP_, 2020.
+ * **RF-CFF**: Yong Wang, Xian Wei, Hao Shen, Lu Ding, Jiuqing Wan. Robust fusion for RGB-D tracking using CNN features. In _Applied Soft Computing Journal_, 2020. [[Paper]](https://www.sciencedirect.com/sdfe/reader/pii/S1568494620302428/pdf)
+ * **SiamOC**: Wenli Zhang, Kun Yang, Yitao Xin, Rui Meng. An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network. In _ICSP_, 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9320907)
  * **WCO**: Weichun Liu, Xiaoan Tang, Chengling Zhao. Robust RGBD Tracking via Weighted Convlution Operators. In _Sensors_ 20(8), 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950173/)
 
 ### 2019
