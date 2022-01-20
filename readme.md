@@ -1,6 +1,8 @@
 # RGBD Tracking Overview
 Related papers will be continuously updated. Please feel free to contact [jinyu.yang96@outlook.com](mailto:jinyu.yang96@outlook.com), [liz8@mail.sustech.edu.cn](mailto:liz8@mail.sustech.edu.cn).
-Welcome to visit the SUSTech-VIP Lab as research assistants and visiting students. Looking forward to working with you!
+
+BTW: Welcome to visit the SUSTech-VIP Lab as research assistants and visiting students. Looking forward to working with you!
+
 ## Overview
 ![image](https://github.com/memoryunreal/RGBD-tracking-review/blob/main/choro.png)
 ## RGBD Tracking Express
