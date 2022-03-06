@@ -1,0 +1,17 @@
+Siam_LTD \cite{Kristan2020a} &0.310& 0.560 & 0.554 &0.327  &0.473\\
+STARK_rgbd \cite{kristan2021ninth} & 0.519\rCircNum & 0.776\rCircNum& 0.789\rCircNum & 0.493\rCircNum& 0.699\rCircNum \\
+TSDM \cite{zhao2021tsdm} &0.251 & 0.562 & 0.564 &0.341 &0.481\\
+CLGS-D \cite{Kristan2020a} & 0.283 &0.647 & 0.676 &0.386 &0.630\\
+CA3DMS & 0.236 &0.131 &0.316 & 0.199 &0.201\\
+DSKCF_shape & 0.023 & 0.031 & 0.049 & 0.028 & 0.027\\
+ATCAIS \cite{kristan2019seventh} &0.428 & 0.661 & 0.753\bCircNum &0.436 &0.652\bCircNum \\
+SLMD \cite{kristan2021ninth} &0.394 &0.651 & 0.719 &0.464\bCircNum &0.609\\
+CSRKCF & 0.085 &0.160 &0.186&0.110 &0.145\\
+DAL\cite{2019DAL} &0.334 &0.543 &0.620 &0.446 &0.515\\
+TALGD \cite{kristan2021ninth} &0.431\bCircNum & 0.721\bCircNum &0.764\gCircNum &0.448 &0.683\gCircNum\\
+sttc_rgbd \cite{kristan2021ninth} & 0.386 & 0.724\gCircNum & 0.711 &0.408 &0.633\\
+DRefine \cite{kristan2021ninth} & 0.393 &0.701 &0.720 &0.440 &0.613\\
+DDiMP \cite{Kristan2020a} &0.379 &0.648 &0.724 &0.466\gCircNum &0.618\\
+DeT \cite{yan2021depthtrack} &0.437\gCircNum & 0.619 & 0.627 & 0.458 & 0.578\\
+SiamDW-D \cite{kristan2019seventh} & 0.345&0.428 &0.637 &0.371 &0.295 \\
+LTDSEd \cite{kristan2019seventh} &0.366&0.532 &0.633&0.421&0.305\\
