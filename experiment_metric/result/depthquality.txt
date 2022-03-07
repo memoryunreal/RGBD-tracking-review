@@ -1,0 +1,72 @@
+Siam_LTD
+Trackers: Siam_LTD quality level: high quality   pr: 0.939155857641877  re: 0.4075183023865916  fscore: 0.4200300127538899
+Trackers: Siam_LTD quality level: medium quality   pr: 0.9302765660187858  re: 0.4086918672482447  fscore: 0.41852354268453024
+Trackers: Siam_LTD quality level: low quality   pr: 0.9462911322482592  re: 0.400573479859107  fscore: 0.40262755136014877
+iiau_rgbd
+Trackers: iiau_rgbd quality level: high quality   pr: 1.0  re: 0.6052059117404344  fscore: 0.6075507219046743
+Trackers: iiau_rgbd quality level: medium quality   pr: 1.0  re: 0.6349905182555953  fscore: 0.6390526771876258
+Trackers: iiau_rgbd quality level: low quality   pr: 1.0  re: 0.5866246800091249  fscore: 0.5885734397107174
+TSDM
+Trackers: TSDM quality level: high quality   pr: 0.4286652363996092  re: 0.4194891841118662  fscore: 0.4221290447391323
+Trackers: TSDM quality level: medium quality   pr: 0.40971811109252476  re: 0.39413489840009874  fscore: 0.398625947286591
+Trackers: TSDM quality level: low quality   pr: 0.42996820924428303  re: 0.42100465670989595  fscore: 0.421509408750819
+CLGS_D
+Trackers: CLGS_D quality level: high quality   pr: 0.8262088104090471  re: 0.4352778846594191  fscore: 0.5119085757031238
+Trackers: CLGS_D quality level: medium quality   pr: 0.8770711296280155  re: 0.4058149242403492  fscore: 0.4864591873479613
+Trackers: CLGS_D quality level: low quality   pr: 0.8750211816206623  re: 0.3756269079661101  fscore: 0.4459994716301675
+CADMS
+Trackers: CADMS quality level: high quality   pr: 1.0  re: 0.2625831842409578  fscore: 0.25728173074962635
+Trackers: CADMS quality level: medium quality   pr: 1.0  re: 0.3014591648940754  fscore: 0.3094855306511556
+Trackers: CADMS quality level: low quality   pr: 1.0  re: 0.3260944426023554  fscore: 0.3569117761224507
+ATCAIS19
+Trackers: ATCAIS19 quality level: high quality   pr: 0.5236424781060167  re: 0.5363727111883266  fscore: 0.5299311528961634
+Trackers: ATCAIS19 quality level: medium quality   pr: 0.5666963043466502  re: 0.5808334587296731  fscore: 0.5736777992068443
+Trackers: ATCAIS19 quality level: low quality   pr: 0.563294460869721  re: 0.5740323076231423  fscore: 0.568612694613472
+SLMD
+Trackers: SLMD quality level: high quality   pr: 0.6139332117468465  re: 0.5464320912919143  fscore: 0.5594062682423692
+Trackers: SLMD quality level: medium quality   pr: 0.555663417224063  re: 0.5111329324939147  fscore: 0.5201539087623249
+Trackers: SLMD quality level: low quality   pr: 0.5448912626031428  re: 0.48371311114868404  fscore: 0.4904810806321144
+CSRKCF
+Trackers: CSRKCF quality level: high quality   pr: 0.13154037847784536  re: 0.13468307167900792  fscore: 0.13309317577228774
+Trackers: CSRKCF quality level: medium quality   pr: 0.13731617320253595  re: 0.14071332702161307  fscore: 0.13899399574237423
+Trackers: CSRKCF quality level: low quality   pr: 0.14029417986414555  re: 0.14293918330696676  fscore: 0.14160433126931127
+DAL
+Trackers: DAL quality level: high quality   pr: 0.6329219384458467  re: 0.468379011428275  fscore: 0.49880699372962467
+Trackers: DAL quality level: medium quality   pr: 0.5732064161120052  re: 0.4311881544434695  fscore: 0.4602212526658581
+Trackers: DAL quality level: low quality   pr: 0.5695437556705605  re: 0.4216071991600748  fscore: 0.45231320651831425
+TALGD
+Trackers: TALGD quality level: high quality   pr: 0.6259815560712504  re: 0.5339300803755462  fscore: 0.5487889455930589
+Trackers: TALGD quality level: medium quality   pr: 0.6885185651749098  re: 0.6158770195919275  fscore: 0.6250606078711851
+Trackers: TALGD quality level: low quality   pr: 0.6644244040030024  re: 0.5699242337455238  fscore: 0.5816610770518158
+OTR
+Trackers: OTR quality level: high quality   pr: 0.3276428195004494  re: 0.3223997481413818  fscore: 0.3181227590649387
+Trackers: OTR quality level: medium quality   pr: 0.35082437626288326  re: 0.3389630591966052  fscore: 0.33729531411895125
+Trackers: OTR quality level: low quality   pr: 0.42166315136441385  re: 0.4103831355429041  fscore: 0.40740733163068577
+sttc_rgbd
+Trackers: sttc_rgbd quality level: high quality   pr: 1.0  re: 0.5411419490444462  fscore: 0.543869750681396
+Trackers: sttc_rgbd quality level: medium quality   pr: 1.0  re: 0.5190658144149286  fscore: 0.5238785784563923
+Trackers: sttc_rgbd quality level: low quality   pr: 1.0  re: 0.5422285248999205  fscore: 0.5447508104653367
+DRefine
+Trackers: DRefine quality level: high quality   pr: 0.5841928805645374  re: 0.5304844009421691  fscore: 0.5408664607191964
+Trackers: DRefine quality level: medium quality   pr: 0.5418113076126044  re: 0.5139016830008477  fscore: 0.5192928297760683
+Trackers: DRefine quality level: low quality   pr: 0.5521270012849906  re: 0.4964930157722603  fscore: 0.5059186262718594
+DDiMP
+Trackers: DDiMP quality level: high quality   pr: 0.6095553574841737  re: 0.5439596770102691  fscore: 0.5567417843820968
+Trackers: DDiMP quality level: medium quality   pr: 0.5723009464973094  re: 0.5300871814484251  fscore: 0.5378558592466046
+Trackers: DDiMP quality level: low quality   pr: 0.5666777753913317  re: 0.5048626873106149  fscore: 0.5127264835804167
+siammds
+Trackers: siammds quality level: high quality   pr: 0.6297567392948791  re: 0.058200121988512404  fscore: 0.058595614661186596
+Trackers: siammds quality level: medium quality   pr: 0.3761390653092416  re: 0.04103201488583375  fscore: 0.04057313035870479
+Trackers: siammds quality level: low quality   pr: 0.2706233347253069  re: 0.04806087437371378  fscore: 0.04796393811810969
+DeT
+Trackers: DeT quality level: high quality   pr: 0.8184213185636876  re: 0.6402986304761134  fscore: 0.637430173943366
+Trackers: DeT quality level: medium quality   pr: 0.7421306639174593  re: 0.6490918898252137  fscore: 0.6663396297261507
+Trackers: DeT quality level: low quality   pr: 0.7831840775649381  re: 0.5844257689636092  fscore: 0.6212329751648699
+SiamDW_D
+Trackers: SiamDW_D quality level: high quality   pr: 0.7202632572984629  re: 0.4710097841689193  fscore: 0.4682898351309594
+Trackers: SiamDW_D quality level: medium quality   pr: 0.8061767447088448  re: 0.4041724197308359  fscore: 0.4012818704902444
+Trackers: SiamDW_D quality level: low quality   pr: 0.8113333754715825  re: 0.39364669158763543  fscore: 0.3914566475108855
+LTDSEd
+Trackers: LTDSEd quality level: high quality   pr: 1.0  re: 0.4713800070389096  fscore: 0.48185801967980746
+Trackers: LTDSEd quality level: medium quality   pr: 1.0  re: 0.3869466682880564  fscore: 0.4060535890268143
+Trackers: LTDSEd quality level: low quality   pr: 1.0  re: 0.4006053858819009  fscore: 0.40768786052854156

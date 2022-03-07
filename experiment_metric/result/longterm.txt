@@ -1,0 +1,54 @@
+Siam_LTD
+Trackers: Siam_LTD  before invisible  fscore: 0.5443912071241552
+Trackers: Siam_LTD  after invisible  fscore: 0.315449710699945
+iiau_rgbd
+Trackers: iiau_rgbd  before invisible  fscore: 0.7159629400417762
+Trackers: iiau_rgbd  after invisible  fscore: 0.5515361076471329
+TSDM
+Trackers: TSDM  before invisible  fscore: 0.5296927249287159
+Trackers: TSDM  after invisible  fscore: 0.35095892869132833
+CLGS_D
+Trackers: CLGS_D  before invisible  fscore: 0.6409884786961373
+Trackers: CLGS_D  after invisible  fscore: 0.46960676019358744
+CADMS
+Trackers: CADMS  before invisible  fscore: 0.44363961558630544
+Trackers: CADMS  after invisible  fscore: 0.09008008949486436
+ATCAIS19
+Trackers: ATCAIS19  before invisible  fscore: 0.6528555951272491
+Trackers: ATCAIS19  after invisible  fscore: 0.45742261422829067
+SLMD
+Trackers: SLMD  before invisible  fscore: 0.6395004827869951
+Trackers: SLMD  after invisible  fscore: 0.4833135180513665
+CSRKCF
+Trackers: CSRKCF  before invisible  fscore: 0.3199697538368986
+Trackers: CSRKCF  after invisible  fscore: 0.027853772587688095
+DAL
+Trackers: DAL  before invisible  fscore: 0.5734426302074672
+Trackers: DAL  after invisible  fscore: 0.4102884347387069
+TALGD
+Trackers: TALGD  before invisible  fscore: 0.6658783690149204
+Trackers: TALGD  after invisible  fscore: 0.5438151909933568
+OTR
+Trackers: OTR  before invisible  fscore: 0.5075859397830498
+Trackers: OTR  after invisible  fscore: 0.21449255097915526
+sttc_rgbd
+Trackers: sttc_rgbd  before invisible  fscore: 0.654777574385115
+Trackers: sttc_rgbd  after invisible  fscore: 0.48272052492164885
+DRefine
+Trackers: DRefine  before invisible  fscore: 0.6462300482197944
+Trackers: DRefine  after invisible  fscore: 0.4563991164113308
+DDiMP
+Trackers: DDiMP  before invisible  fscore: 0.650385292163198
+Trackers: DDiMP  after invisible  fscore: 0.48312745205376073
+siammds
+Trackers: siammds  before invisible  fscore: 0.07903571786343123
+Trackers: siammds  after invisible  fscore: 0.043420393697550366
+DeT
+Trackers: DeT  before invisible  fscore: 0.7306128138954182
+Trackers: DeT  after invisible  fscore: 0.34138808310669777
+SiamDW_D
+Trackers: SiamDW_D  before invisible  fscore: 0.49580531491152297
+Trackers: SiamDW_D  after invisible  fscore: 0.31849396507183236
+LTDSEd
+Trackers: LTDSEd  before invisible  fscore: 0.4460407723851305
+Trackers: LTDSEd  after invisible  fscore: 0.3684777903892352

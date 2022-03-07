@@ -1,0 +1,3 @@
+INFO:2022-03-03 16:08:49:Trackers: DeT  quality level: high quality  pr: 0.5883741020274205  re: 0.5211194832739392  fscore: 0.5390169879422325
+INFO:2022-03-03 16:08:49:Trackers: DeT  quality level: medium quality  pr: 0.5649941399141927  re: 0.5202860620008435  fscore: 0.5326332668369042
+INFO:2022-03-03 16:08:49:Trackers: DeT  quality level: low quality  pr: 0.5504992828504355  re: 0.5184387696318212  fscore: 0.5249724091161083
