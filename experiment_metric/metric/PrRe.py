@@ -204,8 +204,11 @@ class PrRe(object):
         before_invisible = np.array(before_invisible)
         after_invisible = np.array(after_invisible)
         for id, frame in enumerate([before_invisible, after_invisible]):
-            x_frame = frame == 1
-            confidence = self.confidence[x_frame]
+            try:
+                x_frame = frame == 1
+                confidence = self.confidence[x_frame]
+            except:
+                print('ok')
             overlaps = self.overlaps[x_frame]
             visible = self.visible[x_frame]
             n_visible = len([vis for vis in visible if vis == True])
@@ -261,7 +264,7 @@ class PrRe(object):
         for index in range(len(all_pr)):
             pr = all_pr[index]
             re = all_re[index]
-            pr_score = np.max(pr)
+            pr_score = np.mean(pr)
             # re_score = abs(np.trapz(re, self.thresholds))
             re_score = np.max(re)
             # pr_score = np.sum(pr)/100

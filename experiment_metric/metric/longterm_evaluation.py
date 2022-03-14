@@ -11,6 +11,7 @@ def compute_LT_curves(trajectory: Tracking, sequence: Sequence_t, all_prre: PrRe
     
     #overlaps = np.array(calculate_overlaps(trajectory, sequence.groundtruth(), (sequence.size) if bounded else None))
     prebbox, confidence = trajectory.prebox_conf(sequence.name)
+    # prebbox, confidence = trajectory.vot_prebox_conf(sequence.name)
     gt = sequence.gt 
 
     # firstframe in each sequence
@@ -36,7 +37,7 @@ def compute_LT_curves(trajectory: Tracking, sequence: Sequence_t, all_prre: PrRe
 
 seq_list = os.listdir('/data1/yjy/rgbd_benchmark/alldata')
 seq_list.remove('list.txt')
-# all_trackers = [Tracking(tracker) for tracker in os.listdir('/data1/yjy/rgbd_benchmark/all_benchmark/results/')]
+# all_trackers = [Tracking(tracker, path='/data1/gaoshang/workspace_votRGBD2019/results/') for tracker in ['prompt-cdtb']]
 all_trackers = [Tracking(tracker) for tracker in ['DAL']]
 # all_trackers = [Tracking(tracker) for tracker in ['CADMS']]
 all_sequence = [Sequence_t(seq) for seq in seq_list]
@@ -46,6 +47,7 @@ for trackers in all_trackers:
     for sequence in all_sequence:
         
         if sequence.name in trackers._seqlist:
+        # if sequence.name in trackers.vot_list():
             compute_LT_curves(trackers, sequence, trackers._prre)
             #print('{}: length of iou {} '.format(trackers.name, trackers._prre.count))
         else:

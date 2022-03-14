@@ -61,7 +61,10 @@ class Tracking(object):
         return pre_value, confidence 
 
     def prebox_conf(self, sequence):
+            
         boxtxt = os.path.join(self._path, '{}_001.txt'.format(sequence))
+        if self._name == 'DSKCF':
+            boxtxt = os.path.join(self._path, '{}_001_TargetSize.txt'.format(sequence))
         try:
             with open(boxtxt, 'r') as f:
                 pre_value = np.loadtxt(f, delimiter=',', skiprows=1)
@@ -79,4 +82,17 @@ class Tracking(object):
             with open(conftxt, 'r') as f:
                 confidence = np.loadtxt(f, skiprows=1)
         return pre_value, confidence
+    
+    def prebox_speed(self, sequence):
+        timetxt = os.path.join(self._path, '{}_001_time.value'.format(sequence))
+        flag = False
+        try:
+            with open(timetxt, 'r') as f:
+                speed_value = np.loadtxt(f, skiprows=1)
+                
+        except:
+            speed_value = 0
+            flag = True
+        
+        return speed_value, flag       
 
