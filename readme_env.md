@@ -1,4 +1,3 @@
-# TIP
 ## Install the environment
 - Use the Anaconda
 ```
