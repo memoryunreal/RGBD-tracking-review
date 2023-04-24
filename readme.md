@@ -7,7 +7,9 @@ BTW: Welcome to visit the SUSTech-VIP Lab as research assistants and visiting st
 ![image](https://github.com/memoryunreal/RGBD-tracking-review/blob/main/choro.png)
 ## RGBD Tracking Express
 ### 2023
- * **SPT**: Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking. In _AAAI_, 2023. [[Paper]](https://arxiv.org/pdf/2208.09787.pdf)
+ * **ViPT**: Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu. Visual Prompt Multi-Modal Tracking. [[Paper]](https://arxiv.org/abs/2303.10826) [[Code]](https://github.com/jiawen-zhu/ViPT). In _CVPR_, 2023. 
+
+ * **SPT**: Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking. In _AAAI_, 2023. [[Paper]](https://arxiv.org/pdf/2208.09787.pdf) [[Project]](https://github.com/xuefeng-zhu5/RGBD1K)
  
 ### 2022
  * **DMT**: Shang Gao, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song. Learning Dual-Fused Modality-Aware Representations for RGBD Tracking. In _ECCVW_, 2022. [[Paper]](https://arxiv.org/pdf/2211.03055.pdf)
