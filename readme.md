@@ -3,6 +3,15 @@ Related papers will be continuously updated. Please feel free to contact [jinyu.
 
 BTW: Welcome to visit the SUSTech-VIP Lab as research assistants and visiting students. Looking forward to working with you! [[加入我们]](https://faculty.sustech.edu.cn/?cat=11&tagid=fengzheng&orderby=date&iscss=1&snapid=1) [[Join us]](https://faculty.sustech.edu.cn/?cat=11&tagid=fengzheng&orderby=date&iscss=1&snapid=1&lang=en) [[Arxiv]](https://arxiv.org/abs/2203.14134)
 
+## News
+:boom: [Track-Anything](https://github.com/gaomingqi/Track-Anything) is developing for you to try.
+
+:boom: [DMT](https://arxiv.org/pdf/2211.03055.pdf) is accepted by ECCV workshop 2022.
+
+:boom: [ProTrack](https://arxiv.org/pdf/2211.03055.pdf) is accepted by ACMMM 2022.
+
+
+
 ## Overview
 ![image](https://github.com/memoryunreal/RGBD-tracking-review/blob/main/choro.png)
 ## RGBD Tracking Express
